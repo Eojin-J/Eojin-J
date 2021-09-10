@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=300&section=header&text=Eojin%20Jang&fontSize=80&fontColor=00bfff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=61BFAD&height=300&section=header&text=Eojin%20Jang&fontSize=80&fontColor=FFFFFF)
 
 ### Hi there 👋
 

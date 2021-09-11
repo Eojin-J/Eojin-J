@@ -1,6 +1,7 @@
-<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=61BFAD&height=300&section=header&text=Eojin%20Jang&fontSize=80&fontColor=FFFFFF)
 
+<div align=center>
+ 
  ## 🛠 T E C H 🛠   
  Tech that I've used at least once    
  

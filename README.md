@@ -6,7 +6,7 @@
 
 - 이름 : 장어진 <br>
 - 이메일 : ej2b514@gmail.com <br>
-- 관심 분야 : data analysis, Vision, NLP <br>
+- 관심 분야 : Data Analysis, Vision, NLP <br>
 - 데이터 분석 대회 <br>
   |대회|대회명|순위|상위|
   |---|------|----|----|

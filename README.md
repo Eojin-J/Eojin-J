@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=61BFAD&height=300&section=header&text=Eojin%20Jang&fontSize=80&fontColor=FFFFFF)
 
-안녕하세요. 데이터분석, Vision, NLP 모두 관심이 있는 대학생입니다.
-데이터와 인공지능에 관심이 많아 현재는 데이콘 위주로 경진대회에 참가하여 배우고 있습니다.
-컴퓨터공학과 재학 중인 학생으로 전공시간에 배운 내용을 바탕으로 정리, 추가 프로젝트를 진행하고 있습니다.
+안녕하세요. 데이터분석, Vision, NLP 모두 관심이 있는 대학생입니다.   
+데이터와 인공지능에 관심이 많아 현재는 데이콘 위주로 경진대회에 참가하여 배우고 있습니다.   
+컴퓨터공학과 재학 중인 학생으로 전공시간에 배운 내용을 바탕으로 정리, 추가 프로젝트를 진행하고 있습니다.   
 
-- 이름 : 장어진
-- 이메일 : ej2b514@gmail.com
-- 관심 분야 : data analysis, Vision, NLP
+- 이름 : 장어진 <br>
+- 이메일 : ej2b514@gmail.com <br>
+- 관심 분야 : data analysis, Vision, NLP <br>
 - 데이터 분석 대회
   |대회|대회명|순위|상위|
   |---|------|----|----|

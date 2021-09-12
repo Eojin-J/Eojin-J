@@ -21,8 +21,8 @@
 - 전공 과목 과제 & 실습 코드 정리
   |과목|진행시기|비고|
   |----|-------|----|
-  |모바일컴퓨팅과응용|21.03 - 21.06|주차별 과제|
-  |데이터분석|21.03 - 21.06|텀프로젝트| <br><br><br>
+  |[모바일컴퓨팅과응용](https://github.com/Eojin-J/MobileCom_Andoroid)|21.03 - 21.06|주차별 과제|
+  |[데이터분석](https://github.com/Eojin-J/DataAnalysis)|21.03 - 21.06|텀프로젝트| <br><br><br>
 
 <div align=center>
  

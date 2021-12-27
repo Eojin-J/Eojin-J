@@ -15,7 +15,7 @@
 - 개인 & 팀 프로젝트 <br>
   | - |프로젝트 명|진행시기|구분|
   |---|------|-------|----|
-  |Android|[대전광역시 코로나 알리미](https://github.com/Eojin-J/Corona_D.git)|21.06|개인|
+  |Android|[대전광역시 코로나 알리미](https://github.com/Eojin-J/Corona_D.git)|21.06|팀|
   |Android|[코데믹 (전국 단위 코로나 정보)](https://github.com/Eojin-J/projectK.git)|21.07 - 21.08|팀|
   |Android|한밭대학교 과제 관리|21.09 - |팀| <br><br>
 - 전공 과목 과제 & 실습 코드 정리

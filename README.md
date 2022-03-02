@@ -7,7 +7,9 @@
 - 이름 : 장어진 <br>
 - 이메일 : ej2b514@gmail.com <br>
 - 오픈 카카오톡 : https://open.kakao.com/o/s3csgskd <br> 
-- 관심 분야 : Data Analysis, Vision, NLP <br>
+- 관심 분야 : Data Analysis, Vision <br>
+
+ ## 🎯대회 및 프로젝트 정리 
 - 데이터 분석 대회 <br>  
   |대회|대회명|최종 코드|대회마감|순위|상위|
   |---|------|--------|--------|---|----|

@@ -60,7 +60,7 @@
 </div>
 
 ### 
-  |대회|대회명|최종 코드|대회마감|순위|상위|
+  |*대회*|*대회명*|*최종 코드*|*대회마감*|*순위*|*상위*|
   |---|------|--------|--------|---|----|
   |Dacon|[주차수요 예측 AI 경진대회](https://dacon.io/competitions/official/235745/overview/description)|[링크](https://github.com/Eojin-J/Dacon/tree/main/%EC%A3%BC%EC%B0%A8%EC%88%98%EC%9A%94%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)|21.07.30|1/503|1%| 
   |Dacon|[HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://dacon.io/competitions/official/235757/overview/description)|...|21.10.22|49/177|28%| 

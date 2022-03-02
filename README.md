@@ -49,7 +49,7 @@
 ###
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
-|  2022.01 ~ 2022.03 | Join          | DACON Supporters | Join ["DACON Supporters"](https://dacon.io/more/notice/90)  Research Topic : Deep Learning, Machine Learning, Computer Vision    |
+|  2022.01 ~ 2022.03 | Join          | DACON Supporters | Join ["DACON Supporters"](https://dacon.io/more/notice/90)  Topic : Deep Learning, Machine Learning, Computer Vision    |
 
 ###
   

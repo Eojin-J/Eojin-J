@@ -55,7 +55,7 @@
   
  
  ## 🎯 대회 및 프로젝트 정리 
-<div align="center"><strong>
+<div><strong>
    데이터 분석 대회
 </div>
 
@@ -69,7 +69,7 @@
   |Dacon|[한국어 문장 관계 분류 경진대회](https://dacon.io/competitions/official/235875/leaderboard)|[링크](https://github.com/mjkmain/Dacon-korean-NLI)|22.02.28|23/468|4.9%|<br><br>
 ###
  
-<div align="center"><strong>
+<div><strong>
    개인 & 팀 프로젝트
 </div>
  
@@ -81,7 +81,7 @@
   |Android|한밭대학교 과제 관리|21.09 - |팀| <br><br>
 ###
  
- <div align="center"><strong>
+ <div><strong>
    전공 과목 과제 & 실습 코드 정리
 </div> 
 

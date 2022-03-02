@@ -17,7 +17,7 @@
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
 |  2021.03      | Join Lab.         | Undergraduate Researcher | Join "Artificial Intelligence Media(AIM) Lab."  Research Topic : Computer Vision    https://sites.google.com/view/aim-lab-hbnu/ |
-|  2021.03 ~    | Seminar             | Seminar about AI | Study ML, DL | 
+|  2021.03 ~    | Seminar             | Seminar about AI | Study ML, DL with '혼공머신' (https://www.youtube.com/watch?v=J6wehCO_c58&list=PLVsNizTWUw7HpqmdphX9hgyWl15nobgQX)| 
 |  2021.04 ~ 2021.10 | Research Activities | Steganalysis | Research on staganalysis technology specialized for Android environment |
 |  2022.01      | Teaching Assistant  | Artificial intelligence intensive training course | T.A. of AI (prof. H.E.Jang) |
 |  2022.03 ~    | Teaching Assistant  | Data Structure| T.A. of Data Structure Class  (prof. H.E.Jang) |

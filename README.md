@@ -8,14 +8,16 @@
 - 이메일 : ej2b514@gmail.com <br>
 - 오픈 카카오톡 : https://open.kakao.com/o/s3csgskd <br> 
 - 관심 분야 : Data Analysis, Vision <br>
-
- ## 🎯대회 및 프로젝트 정리 
+ ## 💻Work Experience
+ 
+ ## 🎯 대회 및 프로젝트 정리 
 - 데이터 분석 대회 <br>  
   |대회|대회명|최종 코드|대회마감|순위|상위|
   |---|------|--------|--------|---|----|
   |Dacon|[주차수요 예측 AI 경진대회](https://dacon.io/competitions/official/235745/overview/description)|[링크](https://github.com/Eojin-J/Dacon/tree/main/%EC%A3%BC%EC%B0%A8%EC%88%98%EC%9A%94%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)|21.07.30|1/503|1%| 
   |Dacon|[HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://dacon.io/competitions/official/235757/overview/description)|...|21.10.22|49/177|28%| 
-  |Dacon|[작물 병해 분류 AI 경진대회](https://dacon.io/competitions/official/235842/overview/description)|...|21.10.22|46/170|28%| 
+  |Dacon|[작물 병해 분류 AI 경진대회](https://dacon.io/competitions/official/235842/overview/description)|...|21.10.22|46/170|28%|
+  |AI Factory|[제2회 연구개발특구 인공지능 경진대회 AI SPARK 챌린지](http://aifactory.space/competition/detail/1946)|...|22.02.04|43/225|19%|
   |Dacon|[한국어 문장 관계 분류 경진대회](https://dacon.io/competitions/official/235875/leaderboard)|[링크](https://github.com/mjkmain/Dacon-korean-NLI)|22.02.28|23/468|4.9%|<br><br>
   
 - 개인 & 팀 프로젝트 <br>

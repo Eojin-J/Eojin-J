@@ -9,6 +9,14 @@
 - 오픈 카카오톡 : https://open.kakao.com/o/s3csgskd <br> 
 - 관심 분야 : Data Analysis, Vision <br>
  ## 💻 Work Experience
+ 
+ ###
+|     *Date*      |         *Type*        |          *Contents*         |   *Details* |
+|:-------------:|:-------------------:|:-------------------------:|:----------:|
+|  2020.09 ~ 2021.01 | Teaching Assistant | Algorithm | T.A. of Algorithm (prof. T.H.Kim) |
+|  2020.11 ~ 2020.12 | Panels of Engineering Students | Engineering festival | conduct the preliminary and final screening of the creative comprehensive design competitio |
+###
+ 
  <div align="center"><strong>
     AIM Lab. 
 </div>

@@ -8,7 +8,41 @@
 - 이메일 : ej2b514@gmail.com <br>
 - 오픈 카카오톡 : https://open.kakao.com/o/s3csgskd <br> 
 - 관심 분야 : Data Analysis, Vision <br>
- ## 💻Work Experience
+ ## 💻 Work Experience
+ <div align="center"><strong>
+    AIM Lab. 
+</div>
+ 
+###
+|     *Date*      |         *Type*        |          *Contents*         |   *Details* |
+|:-------------:|:-------------------:|:-------------------------:|:----------:|
+|  2021.03      | Join Lab.         | Undergraduate Researcher | Join "Artificial Intelligence Media(AIM) Lab."  Research Topic : Computer Vision    https://sites.google.com/view/aim-lab-hbnu/ |
+|  2021.03 ~    | Seminar             | Seminar about AI | Study ML, DL | 
+
+###
+ 
+ <div align="center"><strong>
+    ETRI. 
+</div>
+
+###
+|     *Date*      |         *Type*        |          *Contents*         |   *Details* |
+|:-------------:|:-------------------:|:-------------------------:|:----------:|
+|  2022.01 ~ 02 | Join          | research trainee | Join "ETRI Communication Media Research Institute"  Research Topic : Computer Vision    https://www.etri.re.kr/kor/sub6/sub6_01020101.etri?departCode=135&departInfoCode=249 |
+
+###
+ 
+ <div align="center"><strong>
+    DACREW(DACON Supporters). 
+</div>
+
+###
+|     *Date*      |         *Type*        |          *Contents*         |   *Details* |
+|:-------------:|:-------------------:|:-------------------------:|:----------:|
+|  2022.01 ~ 03 | Join          | DACON Supporters | Join "DACON Supporters"  Research Topic : Deep Learning, Machine Learning, Computer Vision   https://dacon.io/more/notice/90 |
+
+###
+  
  
  ## 🎯 대회 및 프로젝트 정리 
 - 데이터 분석 대회 <br>  

@@ -89,7 +89,8 @@
   |     *과목*     |     *진행시기*     |     *비고*     |
   |:--------------------:|:------------------:|:----------------:|
   |[모바일컴퓨팅과응용](https://github.com/Eojin-J/MobileCom_Andoroid)|21.03 - 21.06|주차별 과제|
-  |[데이터분석](https://github.com/Eojin-J/DataAnalysis)|21.03 - 21.06|텀프로젝트| <br><br><br>
+  |[데이터분석](https://github.com/Eojin-J/DataAnalysis)|21.03 - 21.06|텀프로젝트| 
+  |[인공지능]()|21.09 - 21.12|팀프로젝트| <br><br><br>
 ###
   
 <div align=center>

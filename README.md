@@ -7,7 +7,7 @@
 - 이름 : 장어진 <br>
 - 이메일 : ej2b514@gmail.com <br>
 - 오픈 카카오톡 : https://open.kakao.com/o/s3csgskd <br> 
-- 관심 분야 : Medical Image , Computer Vision, Data Analysis <br>
+- 관심 분야 : Medical Image, Computer Vision, Data Analysis <br>
  ## 💻 Work Experience
  
 ###

@@ -92,7 +92,7 @@
   |[데이터분석](https://github.com/Eojin-J/DataAnalysis)|21.03 - 21.06|텀프로젝트| 
   |[인공지능]()|21.09 - 21.12|팀프로젝트| 
   |[딥러닝]()|21.09 - 21.12|과제| 
-  |[컴퓨터비전]()|22.03 - |주차별 과제|<br><br><br>
+  |[컴퓨터비전](https://github.com/Eojin-J/Computer_Vision)|22.03 - |주차별 과제|<br><br><br>
 ###
   
 <div align=center>

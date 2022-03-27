@@ -8,6 +8,7 @@
 - 이메일 : ej2b514@gmail.com <br>
 - 오픈 카카오톡 : https://open.kakao.com/o/s3csgskd <br> 
 - 관심 분야 : Medical Image, Computer Vision, Data Analysis <br>
+- CV : [미리보기](https://drive.google.com/file/d/1zTEwNBQDiS111SAftBV7asIchtcRLrk-/view?usp=sharing)
  ## 💻 Work Experience
  
 ###

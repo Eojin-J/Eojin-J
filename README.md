@@ -1,7 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=61BFAD&height=300&section=header&text=Eojin%20Jang&fontSize=80&fontColor=FFFFFF) -->
 
 안녕하세요. Medical Image , Computer Vision, Data Analysis에 관심이 있는 대학생입니다.   
-데이터와 인공지능에 관심이 많아 현재는 데이콘 위주로 경진대회에 참가하여 배우고 있습니다.   
 컴퓨터공학과 재학 중인 학생으로 전공시간에 배운 내용을 바탕으로 정리, 추가 프로젝트를 진행하고 있습니다.   
 
 - 이름 : 장어진 <br>

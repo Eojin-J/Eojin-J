@@ -1,6 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=61BFAD&height=300&section=header&text=Eojin%20Jang&fontSize=80&fontColor=FFFFFF) -->
 <strong>
-안녕하세요. Medical Image , Computer Vision, Data Analysis에 관심이 있는 석사 과정생입니다. <br>   
+안녕하세요. <br>
+Medical Image , Computer Vision, Data Analysis에 관심이 있는 석사 과정생입니다. <br>   
 2025년 2월 석사(DGIST 인공지능 전공) 졸업 예정이며, 석사 전문연구요원으로 취업을 희망합니다. </strong> <br><br>
 
 - 이름 : 장어진 <br>

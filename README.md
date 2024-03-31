@@ -31,7 +31,7 @@
 | 2020.11 ~ 2020.12 | Panels of Engineering Students | Engineering festival | conduct the preliminary and final screening of the creative comprehensive design competitio |
 | 2022.01 ~ 2022.03 | DACON Supporters | Join ["DACON Supporters"](https://dacon.io/more/notice/90) | Topic : Deep Learning, Machine Learning, Computer Vision |
 | 2023.11 ~ 2023.12 | Pre Startup | Join ["ABB Startup Support Program"](https://dip.or.kr/home/notice/businessbbs/boardRead.ubs?sfpsize=10&fboardcd=business&sfkind=&sfcategory=&sfstdt=&sfendt=&sfsearch=ftitle&sfkeyword=&fboardnum=7764&sfpage=1) | ABB Startup Support Program |
-| 2023.12.22 | Talk Panel | Made an appearance in the Talk Concert | Regional Digital Competitiveness Enhancement |
+| 2023.12.22 | Talk Panel | Made an appearance in the Talk Concert | Regional Digital Competitiveness Enhancement Talk Concert (for Daegu) |
 
 <br>
 

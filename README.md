@@ -21,16 +21,12 @@
 
 ###
  
- <div align="center"><strong>
-         <br>
-</div>
- 
 ###
 |     *Date*      |        *Type*        |          *Contents*         | *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
 | 2020.11 ~ 2020.12 | Panels of Engineering Students | Engineering festival | conduct the preliminary and final screening of the creative comprehensive design competition |
 | 2022.01 ~ 2022.03 | DACON Supporters | Join ["DACON Supporters"](https://dacon.io/more/notice/90) | Topic : Deep Learning, Machine Learning, Computer Vision |
-| 2023.01 ~ 2023.02 | Students | Winter global training program in ["University of Sussex"](https://www.sussex.ac.uk/) | language training |
+| 2023.01 ~ 2023.02 | Students | Winter global training program in ["University of Sussex"](https://www.sussex.ac.uk/) | Language training |
 | 2023.11 ~ 2023.12 | Pre Startup | Join ["ABB Startup Support Program"](https://dip.or.kr/home/notice/businessbbs/boardRead.ubs?sfpsize=10&fboardcd=business&sfkind=&sfcategory=&sfstdt=&sfendt=&sfsearch=ftitle&sfkeyword=&fboardnum=7764&sfpage=1) | ABB Startup Support Program |
 | 2023.12.22 | Talk Panel | Made an appearance in the talk concert | Regional Digital Competitiveness Enhancement Talk Concert (in Daegu) |
 

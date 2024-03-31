@@ -10,47 +10,29 @@
  ## 💻 Work Experience
  
 ###
+|     *Date*      |         *Position title*        |          *Contents*         |   *Details* |
+|:-------------:|:-------------------:|:-------------------------:|:----------:|
+|  2021.03 ~ 2023.02 | Undergraduate Researcher | Join ["Artificial Intelligence Media(AIM) Lab"](https://sites.google.com/view/aim-lab-hbnu/) | Research Topic : Computer Vision |
+|  2022.01 ~ 2022.02 | Research Trainee | Join ["ETRI Communication Media Research Institute"](https://www.etri.re.kr/kor/sub6/sub6_01020101.etri?departCode=135&departInfoCode=249) | Research Topic : Computer Vision     |
+|  2022.08 ~ 2022.12 | Research Intern | Join ["HANCOM inSpace"](https://www.inspace.co.kr/) | Research Topic : Computer Vision     |
+|  2023.02 ~         | Master Candidate | Join ["Medical Image and Signal Processing Lab(MISPL)"](https://sites.google.com/view/mispl/home) | Research Topic : Computer Vision     |
+
+###
+ 
+ <div align="center"><strong>
+     --------------------------------------------------------------
+</div>
+ 
+###
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
-|  2020.09 ~ 2021.01 | Teaching Assistant | Algorithm | T.A. of Algorithm (prof. T.H.Kim) |
 |  2020.11 ~ 2020.12 | Panels of Engineering Students | Engineering festival | conduct the preliminary and final screening of the creative comprehensive design competitio |
-###
- 
- <div align="center"><strong>
-    AIM Lab. 
-</div>
- 
-###
-|     *Date*      |         *Type*        |          *Contents*         |   *Details* |
-|:-------------:|:-------------------:|:-------------------------:|:----------:|
-|  2021.03      | Join Lab.         | Undergraduate Researcher | Join ["Artificial Intelligence Media(AIM) Lab"](https://sites.google.com/view/aim-lab-hbnu/)  Research Topic : Computer Vision     |
-|  2021.03 ~    | Seminar             | Seminar about AI | Study ML, DL with ['혼공머신'](https://www.youtube.com/watch?v=J6wehCO_c58&list=PLVsNizTWUw7HpqmdphX9hgyWl15nobgQX)| 
-|  2021.04 ~ 2021.10 | Research Activities | Steganalysis | Research on staganalysis technology specialized for Android environment |
-|  2022.01      | Teaching Assistant  | Artificial intelligence intensive training course | T.A. of AI (prof. H.E.Jang) |
-|  2022.03 ~    | Teaching Assistant  | Data Structure| T.A. of Data Structure Class  (prof. H.E.Jang) |
-###
- 
- <div align="center"><strong>
-    ETRI. 
-</div>
+|  2022.01 ~ 2022.03 | DACON Supporters | Join ["DACON Supporters"](https://dacon.io/more/notice/90) | Topic : Deep Learning, Machine Learning, Computer Vision    |
+|  2023.11 ~ 2023.12  | Pre Startup | Join ["ABB Startup Support Program"](https://dip.or.kr/home/notice/businessbbs/boardRead.ubs?sfpsize=10&fboardcd=business&sfkind=&sfcategory=&sfstdt=&sfendt=&sfsearch=ftitle&sfkeyword=&fboardnum=7764&sfpage=1) | Topic : ABB Startup Support Program    |
+|  2023.12.22  | Talk Panel | Made an appearance in the ["Regional Digital Competitiveness Enhancement Talk Concert"] | Topic : Regional Digital Competitiveness Enhancement    |
 
-###
-|     *Date*      |         *Type*        |          *Contents*         |   *Details* |
-|:-------------:|:-------------------:|:-------------------------:|:----------:|
-|  2022.01 ~ 2022.02 | Join          | research trainee | Join ["ETRI Communication Media Research Institute"](https://www.etri.re.kr/kor/sub6/sub6_01020101.etri?departCode=135&departInfoCode=249)  Research Topic : Computer Vision     |
 
-###
- 
- <div align="center"><strong>
-    DACREW - DACON Supporters. 
-</div>
 
-###
-|     *Date*      |         *Type*        |          *Contents*         |   *Details* |
-|:-------------:|:-------------------:|:-------------------------:|:----------:|
-|  2022.01 ~ 2022.03 | Join          | DACON Supporters | Join ["DACON Supporters"](https://dacon.io/more/notice/90)  Topic : Deep Learning, Machine Learning, Computer Vision    |
-
-###
   
  
  ## 🎯 대회 및 프로젝트 정리 

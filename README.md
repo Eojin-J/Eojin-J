@@ -13,11 +13,11 @@
 ###
 |     *Date*      |         *Position title*        |          *Contents*         |   *Research Topic* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
-|  2021.03 ~ 2023.02 | Undergraduate Researcher | Join ["Artificial Intelligence Media(AIM) Lab"](https://sites.google.com/view/aim-lab-hbnu/) | Medical Image, Computer Vision |
-|  2022.01 ~ 2022.02 | Research Trainee | Join ["ETRI"](https://www.etri.re.kr/kor/sub6/sub6_01020101.etri?departCode=135&departInfoCode=249) | Signal, Computer Vision |
-|  2022.04 ~ 2022.10 | Undergraduate Intern | Join ["Radiation & Medical Intelligence(RAMI) Lab"](https://sites.google.com/view/rami-lab/home) | Signal, Computer Vision |
-|  2022.08 ~ 2022.12 | Research Intern | Join ["HANCOM inSpace"](https://www.inspace.co.kr/) | Computer Vision |
-|  2023.02 ~         | Master Candidate | Join ["Medical Image and Signal Processing Lab(MISPL)"](https://sites.google.com/view/mispl/home) | Medical AI, Computer Vision |
+| 2021.03 ~ 2023.02 | Undergraduate Researcher | Join ["Artificial Intelligence Media(AIM) Lab"](https://sites.google.com/view/aim-lab-hbnu/) | Medical Image, Computer Vision |
+| 2022.01 ~ 2022.02 | Research Trainee | Join ["ETRI"](https://www.etri.re.kr/kor/sub6/sub6_01020101.etri?departCode=135&departInfoCode=249) | Signal, Computer Vision |
+| 2022.04 ~ 2022.10 | Undergraduate Intern | Join ["Radiation & Medical Intelligence(RAMI) Lab"](https://sites.google.com/view/rami-lab/home) | Signal, Computer Vision |
+| 2022.08 ~ 2022.12 | Research Intern | Join ["HANCOM inSpace"](https://www.inspace.co.kr/) | Computer Vision |
+| 2023.02 ~         | Master Candidate | Join ["Medical Image and Signal Processing Lab(MISPL)"](https://sites.google.com/view/mispl/home) | Medical AI, Computer Vision |
 
 ###
  
@@ -26,14 +26,14 @@
 </div>
  
 ###
-|     *Date*      |         *Type*        |          *Contents*         |   *Details* |
+|     *Date*      |        *Type*        |          *Contents*         | *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
-|  2020.11 ~ 2020.12 | Panels of Engineering Students | Engineering festival | conduct the preliminary and final screening of the creative comprehensive design competitio |
-|  2022.01 ~ 2022.03 | DACON Supporters | Join ["DACON Supporters"](https://dacon.io/more/notice/90) | Topic : Deep Learning, Machine Learning, Computer Vision |
-|  2023.11 ~ 2023.12  | Pre Startup | Join ["ABB Startup Support Program"](https://dip.or.kr/home/notice/businessbbs/boardRead.ubs?sfpsize=10&fboardcd=business&sfkind=&sfcategory=&sfstdt=&sfendt=&sfsearch=ftitle&sfkeyword=&fboardnum=7764&sfpage=1) | ABB Startup Support Program |
-|  2023.12.22  | Talk Panel | Made an appearance in the Talk Concert | Regional Digital Competitiveness Enhancement |
+| 2020.11 ~ 2020.12 | Panels of Engineering Students | Engineering festival | conduct the preliminary and final screening of the creative comprehensive design competitio |
+| 2022.01 ~ 2022.03 | DACON Supporters | Join ["DACON Supporters"](https://dacon.io/more/notice/90) | Topic : Deep Learning, Machine Learning, Computer Vision |
+| 2023.11 ~ 2023.12 | Pre Startup | Join ["ABB Startup Support Program"](https://dip.or.kr/home/notice/businessbbs/boardRead.ubs?sfpsize=10&fboardcd=business&sfkind=&sfcategory=&sfstdt=&sfendt=&sfsearch=ftitle&sfkeyword=&fboardnum=7764&sfpage=1) | ABB Startup Support Program |
+| 2023.12.22 | Talk Panel | Made an appearance in the Talk Concert | Regional Digital Competitiveness Enhancement |
 
-<br><br>
+<br>
 
  ## 🛠 Tech 🛠   
  Tech that I've used at least once    

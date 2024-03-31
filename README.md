@@ -23,7 +23,7 @@
 ###
  <div align="center"><strong>
     기타 관련 활동
-</div>
+</div></strong>
  
 ###
 |     *Date*      |        *Type*        |          *Contents*         | *Details* |

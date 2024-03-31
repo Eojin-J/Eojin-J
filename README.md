@@ -7,6 +7,7 @@
 - 오픈 카카오톡 : https://open.kakao.com/o/s3csgskd <br>
 - CV : [Preview](https://github.com/Eojin-J/CV/blob/main/Eojin_CV_2209.pdf) <br> 
 - 관심 분야 : Medical Image, Computer Vision, Data Analysis <br>
+
  ## 💻 Work Experience
  
 ###
@@ -21,7 +22,7 @@
 ###
  
  <div align="center"><strong>
-         
+         <br>
 </div>
  
 ###
@@ -32,7 +33,7 @@
 |  2023.11 ~ 2023.12  | Pre Startup | Join ["ABB Startup Support Program"](https://dip.or.kr/home/notice/businessbbs/boardRead.ubs?sfpsize=10&fboardcd=business&sfkind=&sfcategory=&sfstdt=&sfendt=&sfsearch=ftitle&sfkeyword=&fboardnum=7764&sfpage=1) | ABB Startup Support Program |
 |  2023.12.22  | Talk Panel | Made an appearance in the Talk Concert | Regional Digital Competitiveness Enhancement |
 
-
+<br><br>
 
  ## 🛠 Tech 🛠   
  Tech that I've used at least once    

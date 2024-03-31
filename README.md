@@ -21,6 +21,9 @@
 | 2023.02 ~         | Master Candidate | Join ["Medical Image and Signal Processing Lab(MISPL)"](https://sites.google.com/view/mispl/home) | Medical AI, Computer Vision |
 
 ###
+ <div align="center"><strong>
+    기타 관련 활동. 
+</div>
  
 ###
 |     *Date*      |        *Type*        |          *Contents*         | *Details* |

@@ -35,7 +35,7 @@
 | 2023.01 ~ 2023.02 | Students | Winter global training program in ["University of Sussex"](https://www.sussex.ac.uk/) | Language Training |
 | 2023.11 ~ 2023.12 | Pre Startup | Join ["ABB Startup Support Program"](https://dip.or.kr/home/notice/businessbbs/boardRead.ubs?sfpsize=10&fboardcd=business&sfkind=&sfcategory=&sfstdt=&sfendt=&sfsearch=ftitle&sfkeyword=&fboardnum=7764&sfpage=1) | ABB Startup Support Program |
 | 2023.12.22 | Talk Panel | Made an appearance in the talk concert | Regional Digital Competitiveness Enhancement Talk Concert (in Daegu) |
-| 2025.06.18 | MICCAI 2025 Accept | Title to be released after MICCAI conference | ~ |
+| 2025.06.18 | MICCAI 2025 Accept | To be released after MICCAI conference | ~ |
 
 <br>
 

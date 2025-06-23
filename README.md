@@ -1,14 +1,14 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=61BFAD&height=300&section=header&text=Eojin%20Jang&fontSize=80&fontColor=FFFFFF) -->
 <strong>
 안녕하세요. <br>
-Medical Image , Computer Vision, Data Analysis에 관심이 있는 석사 과정생입니다. <br>   
-2025년 2월 석사(DGIST 인공지능 전공) 졸업 예정이며, 석사 전문연구요원으로 취업을 희망합니다. </strong> <br><br>
+Data Analysis, Medical Image , Computer Vision에 관심이 있는 석사 과정생입니다. <br>   
+2025년 2월 석사(DGIST 인공지능 전공) 졸업하였고, 석사 전문연구요원으로 재직중 입니다. </strong> <br><br>
 
 - 이름 : 장어진 <br>
 - 이메일 : ej2b514@gmail.com <br>
 - 오픈 카카오톡 : https://open.kakao.com/o/s3csgskd <br>
 - CV : [Preview](https://github.com/Eojin-J/CV/blob/main/Eojin_CV_2209.pdf) <br> 
-- 관심 분야 : Medical Image, Computer Vision, Data Analysis <br>
+- 관심 분야 : Data Analysis, Medical Image, Computer Vision <br>
 
  ## 💻 Work Experience
  
@@ -19,7 +19,8 @@ Medical Image , Computer Vision, Data Analysis에 관심이 있는 석사 과정
 | 2022.01 ~ 2022.02 | Research Trainee | Join ["ETRI"](https://www.etri.re.kr/kor/sub6/sub6_01020101.etri?departCode=135&departInfoCode=249) | Signal, Computer Vision |
 | 2022.04 ~ 2022.10 | Undergraduate Intern | Join ["Radiation & Medical Intelligence(RAMI) Lab"](https://sites.google.com/view/rami-lab/home) | Signal, Computer Vision |
 | 2022.08 ~ 2022.12 | Research Intern | Join ["HANCOM inSpace"](https://www.inspace.co.kr/) | Computer Vision |
-| 2023.02 ~         | Master Candidate | Join ["Medical Image and Signal Processing Lab(MISPL)"](https://sites.google.com/view/mispl/home) | Medical AI, Computer Vision |
+| 2023.02 ~ 2025.02 | Master Candidate | Join ["Medical Image and Signal Processing Lab(MISPL)"](https://sites.google.com/view/mispl/home) | Medical AI, Computer Vision |
+| 2025.03 ~         | Engineer | Join ["Dongjin Semichem Pangyo Research Institute"](https://www.dongjin.com/en/business/rd.php) | Molecular, Computer Vision |
 
 ###
  <div align="center"><strong>
@@ -34,6 +35,7 @@ Medical Image , Computer Vision, Data Analysis에 관심이 있는 석사 과정
 | 2023.01 ~ 2023.02 | Students | Winter global training program in ["University of Sussex"](https://www.sussex.ac.uk/) | Language Training |
 | 2023.11 ~ 2023.12 | Pre Startup | Join ["ABB Startup Support Program"](https://dip.or.kr/home/notice/businessbbs/boardRead.ubs?sfpsize=10&fboardcd=business&sfkind=&sfcategory=&sfstdt=&sfendt=&sfsearch=ftitle&sfkeyword=&fboardnum=7764&sfpage=1) | ABB Startup Support Program |
 | 2023.12.22 | Talk Panel | Made an appearance in the talk concert | Regional Digital Competitiveness Enhancement Talk Concert (in Daegu) |
+| 2025.06.18 | MICCAI 2025 Accept | ~ | ~ |
 
 <br>
 

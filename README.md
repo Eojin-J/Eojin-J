@@ -2,7 +2,7 @@
 <strong>
 안녕하세요. <br>
 다양한 인공지능 문제(Domain Generalization/Adaptation, Medical, Molecular, Vision)에 관심을 가지고 연구하고 있습니다. <br>   
-2025년 2월 석사(DGIST 인공지능 전공) 졸업하였고, 석사 전문연구요원으로 재직중 입니다. </strong> <br><br>
+2025년 2월 석사(DGIST 인공지능 전공) 졸업하였고, 동진쎄미켐 판교 연구소에 석사 전문연구요원으로 재직중 입니다. </strong> <br><br>
 
 - 이름 : 장어진 <br>
 - 이메일 : ej2b514@gmail.com <br>

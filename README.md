@@ -1,14 +1,14 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=61BFAD&height=300&section=header&text=Eojin%20Jang&fontSize=80&fontColor=FFFFFF) -->
 <strong>
 안녕하세요. <br>
-Data Analysis, Medical Image , Computer Vision에 관심이 있는 석사 과정생입니다. <br>   
+다양한 인공지능 문제(Domain Generalization/Adaptation, Medical, Molecular, Vision)에 관심을 가지고 연구하고 있습니다. <br>   
 2025년 2월 석사(DGIST 인공지능 전공) 졸업하였고, 석사 전문연구요원으로 재직중 입니다. </strong> <br><br>
 
 - 이름 : 장어진 <br>
 - 이메일 : ej2b514@gmail.com <br>
 - 오픈 카카오톡 : https://open.kakao.com/o/s3csgskd <br>
 - CV : [Preview](https://github.com/Eojin-J/CV/blob/main/Eojin_CV_2209.pdf) <br> 
-- 관심 분야 : Data Analysis, Medical Image, Computer Vision <br>
+- 관심 분야 : Domain Generalization/Adaptation, Medical, Molecular, Vision <br>
 
  ## 💻 Work Experience
  
@@ -35,7 +35,7 @@ Data Analysis, Medical Image , Computer Vision에 관심이 있는 석사 과정
 | 2023.01 ~ 2023.02 | Students | Winter global training program in ["University of Sussex"](https://www.sussex.ac.uk/) | Language Training |
 | 2023.11 ~ 2023.12 | Pre Startup | Join ["ABB Startup Support Program"](https://dip.or.kr/home/notice/businessbbs/boardRead.ubs?sfpsize=10&fboardcd=business&sfkind=&sfcategory=&sfstdt=&sfendt=&sfsearch=ftitle&sfkeyword=&fboardnum=7764&sfpage=1) | ABB Startup Support Program |
 | 2023.12.22 | Talk Panel | Made an appearance in the talk concert | Regional Digital Competitiveness Enhancement Talk Concert (in Daegu) |
-| 2025.06.18 | MICCAI 2025 Accept | ~ | ~ |
+| 2025.06.18 | MICCAI 2025 Accept | Title to be released after MICCAI conference | ~ |
 
 <br>
 
